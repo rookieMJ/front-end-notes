@@ -1,2 +1,2 @@
 # front-end-notes
-These are all notes for front end learning.
+This dir contains all notes for front end learning.
